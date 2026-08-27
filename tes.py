@@ -7,3 +7,8 @@ def autox(a,b):
 
 
 autox(3,9)
+
+
+
+_nama = 12
+print(_nama)
